@@ -3,7 +3,10 @@
 # CS
 
 # Data Structure
-[Map, Set, List의 차이](https://github.com/L-j-h-c/TIL/issues/8)
+[Map, Set, List의 차이](https://github.com/L-j-h-c/TIL/issues/8) <br>
+[균형 검색 트리란](https://github.com/L-j-h-c/TIL/issues/43) <br>
+[AVL 트리와 수선](https://github.com/L-j-h-c/TIL/issues/30) <br>
+[Hash Table(해시테이블)의 개념, 해시 함수와 충돌의 해결](https://github.com/L-j-h-c/TIL/issues/41)
 
 # Algorithm
 ### [Graph란 무엇일까?](https://github.com/L-j-h-c/TIL/issues/35)
@@ -17,10 +20,12 @@
 
 # Design Pattern
 
-
 ### [2. 구조 패턴(Structural Pattern)](https://github.com/L-j-h-c/TIL/issues/20)
 [브릿지 패턴(Bridge Pattern)](https://github.com/L-j-h-c/TIL/issues/17) <br>
 [퍼사드 패턴(Facade Pattern)](https://github.com/L-j-h-c/TIL/issues/18) <br>
+[플라이웨이트 패턴(Flyweight Pattern)](https://github.com/L-j-h-c/TIL/issues/37) <br>
+[프록시 패턴(Proxy Pattern)](https://github.com/L-j-h-c/TIL/issues/38) <br>
+[어댑터 패턴(Adapter Pattern)](https://github.com/L-j-h-c/TIL/issues/39) 
 
 # iOS
 ### 문법
