@@ -41,7 +41,13 @@
 
 ### 구현
 [Compositional Layout으로 당근마켓 판매글 상세보기 뷰 구현하기](https://jazz-the-it.tistory.com/27) <br>
-[Compositional Layout에서 pageControl 사용하기 + remakeConstraints](https://jazz-the-it.tistory.com/27)
+[Compositional Layout에서 pageControl 사용하기 + remakeConstraints](https://jazz-the-it.tistory.com/27) <br>
+[Local Notification을 이용하여 유저에게 알림 보내기](https://jazz-the-it.tistory.com/37)
+
+### Testing / Deployment
+[FireBase Remote Config](https://github.com/L-j-h-c/TIL/issues/51) <br>
+[A/B Test](https://github.com/L-j-h-c/TIL/issues/50)
+
 
 ### FrameWork
 
@@ -49,7 +55,11 @@
 
 ### Network / 서버통신
 [URLSession(1) - 개념 모아보기(URLSession, URLSessionConfiguration, URLSessionTask)](https://jazz-the-it.tistory.com/19) <br>
-[Alamofire를 Moya처럼 사용해보자! By Router Pattern](https://jazz-the-it.tistory.com/25)
+[Alamofire를 Moya처럼 사용해보자! By Router Pattern (1편 - Foundation Setting)](https://jazz-the-it.tistory.com/25) <br>
+[Alamofire를 Moya처럼 사용해보자! By Router Pattern (2편 - Services, Routers 구현)](https://jazz-the-it.tistory.com/26) <br>
+[Alamofire를 Moya처럼 사용해보자! By Router Pattern (3편 - body, queryBody, requestPlain, Multipart 구현)](https://jazz-the-it.tistory.com/35) <br>
+[Alamofire를 Moya처럼 사용해보자! By Router Pattern (4편 - EventLogger로 통신 결과 확인하기)](https://jazz-the-it.tistory.com/36)
+
 
 ## Library
 
