@@ -19,6 +19,8 @@
 [Coordinator Pattern 기본! With RayWanderlich Tutorial!](https://jazz-the-it.tistory.com/28)
 
 # Design Pattern
+### [1. 생성 패턴(Creational Pattern)](https://github.com/L-j-h-c/TIL/issues/52)
+
 
 ### [2. 구조 패턴(Structural Pattern)](https://github.com/L-j-h-c/TIL/issues/20)
 [브릿지 패턴(Bridge Pattern)](https://github.com/L-j-h-c/TIL/issues/17) <br>
@@ -42,7 +44,9 @@
 ### 구현
 [Compositional Layout으로 당근마켓 판매글 상세보기 뷰 구현하기](https://jazz-the-it.tistory.com/27) <br>
 [Compositional Layout에서 pageControl 사용하기 + remakeConstraints](https://jazz-the-it.tistory.com/27) <br>
-[Local Notification을 이용하여 유저에게 알림 보내기](https://jazz-the-it.tistory.com/37)
+[Local Notification을 이용하여 유저에게 알림 보내기](https://jazz-the-it.tistory.com/37) <br>
+[Remote Notification & APNs](https://github.com/L-j-h-c/TIL/issues/26) <br>
+[FCM을 이용한 Push Notification 구현](https://jazz-the-it.tistory.com/41)
 
 ### Testing / Deployment
 [FireBase Remote Config](https://github.com/L-j-h-c/TIL/issues/51) <br>
